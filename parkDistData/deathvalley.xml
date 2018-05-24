@@ -1,0 +1,183 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<DistanceMatrixResponse>
+ <status>OK</status>
+ <origin_address>Death Valley National Park, United States</origin_address>
+ <destination_address>Yellowstone National Park, United States</destination_address>
+ <destination_address>Sequoia National Park, California, USA</destination_address>
+ <destination_address>California, USA</destination_address>
+ <destination_address>Mount Rainier National Park, Washington, USA</destination_address>
+ <destination_address>Oregon, USA</destination_address>
+ <destination_address>Wind Cave National Park, South Dakota, USA</destination_address>
+ <destination_address>Mesa Verde National Park, Mesa Verde, CO, USA</destination_address>
+ <destination_address>Glacier National Park, Montana, USA</destination_address>
+ <destination_address>Rocky Mountain National Park, Colorado, USA</destination_address>
+ <destination_address>Lassen Volcanic National Park, California, USA</destination_address>
+ <destination_address>Acadia National Park, Maine, USA</destination_address>
+ <destination_address>Grand Canyon National Park, Arizona, USA</destination_address>
+ <destination_address>Zion National Park, Utah, USA</destination_address>
+ <destination_address>Hot Springs National Park, 369 Central Ave, Hot Springs, AR 71901, USA</destination_address>
+ <destination_address>Bryce Canyon National Park, Utah, USA</destination_address>
+ <destination_address>Grand Teton National Park, Wyoming, USA</destination_address>
+ <destination_address>Carlsbad Caverns National Park, New Mexico 88220, USA</destination_address>
+ <destination_address>40001 State Hwy 9336, Homestead, FL 33034, USA</destination_address>
+ <destination_address>Great Smoky Mountains National Park, United States</destination_address>
+ <destination_address>Shenandoah National Park, Virginia, USA</destination_address>
+ <destination_address>Olympic National Park, 3002 Mt Angeles Rd, Port Angeles, WA 98362, USA</destination_address>
+ <destination_address>Kings Canyon National Park, California, USA</destination_address>
+ <destination_address>Isle Royale National Park, Michigan, USA</destination_address>
+ <destination_address>Mammoth Cave National Park, Kentucky, USA</destination_address>
+ <destination_address>Big Bend National Park, Big Bend National Park, TX, USA</destination_address>
+ <destination_address>Petrified Forest National Park, Arizona, USA</destination_address>
+ <destination_address>Canyonlands National Park, Utah, USA</destination_address>
+ <destination_address>Guadalupe Peak, Texas 79847, USA</destination_address>
+ <destination_address>North Cascades National Park, Washington, USA</destination_address>
+ <destination_address>Redwood National and State Parks, California, USA</destination_address>
+ <destination_address>Voyageurs National Park, 360 Minnesota 11 East, International Falls, MN 56649, USA</destination_address>
+ <destination_address>Arches National Park, Utah, USA</destination_address>
+ <destination_address>Capitol Reef National Park, Utah, USA</destination_address>
+ <destination_address>Badlands National Park, South Dakota, USA</destination_address>
+ <destination_address>Theodore Roosevelt National Park, North Dakota, USA</destination_address>
+ <destination_address>9700 SW 328th St, Homestead, FL 33033, USA</destination_address>
+ <destination_address>Great Basin National Park, Nevada, USA</destination_address>
+ <destination_address>Saguaro National Park, Arizona, USA</destination_address>
+ <destination_address>Furnace Creek, CA 92328, USA</destination_address>
+ <destination_address>Joshua Tree National Park, California, USA</destination_address>
+ <destination_address>Black Canyon of the Gunnison National Park, Colorado, USA</destination_address>
+ <destination_address>Cuyahoga Valley National Park, Ohio, USA</destination_address>
+ <destination_address>Congaree National Park, 100 National Park Rd, Hopkins, SC 29061, USA</destination_address>
+ <destination_address>Great Sand Dunes National Park and Preserve, Colorado, USA</destination_address>
+ <row>
+  <element>
+   <status>ZERO_RESULTS</status>
+  </element>
+  <element>
+   <status>ZERO_RESULTS</status>
+  </element>
+  <element>
+   <status>ZERO_RESULTS</status>
+  </element>
+  <element>
+   <status>ZERO_RESULTS</status>
+  </element>
+  <element>
+   <status>ZERO_RESULTS</status>
+  </element>
+  <element>
+   <status>ZERO_RESULTS</status>
+  </element>
+  <element>
+   <status>ZERO_RESULTS</status>
+  </element>
+  <element>
+   <status>ZERO_RESULTS</status>
+  </element>
+  <element>
+   <status>ZERO_RESULTS</status>
+  </element>
+  <element>
+   <status>ZERO_RESULTS</status>
+  </element>
+  <element>
+   <status>ZERO_RESULTS</status>
+  </element>
+  <element>
+   <status>ZERO_RESULTS</status>
+  </element>
+  <element>
+   <status>ZERO_RESULTS</status>
+  </element>
+  <element>
+   <status>ZERO_RESULTS</status>
+  </element>
+  <element>
+   <status>ZERO_RESULTS</status>
+  </element>
+  <element>
+   <status>ZERO_RESULTS</status>
+  </element>
+  <element>
+   <status>ZERO_RESULTS</status>
+  </element>
+  <element>
+   <status>ZERO_RESULTS</status>
+  </element>
+  <element>
+   <status>ZERO_RESULTS</status>
+  </element>
+  <element>
+   <status>ZERO_RESULTS</status>
+  </element>
+  <element>
+   <status>ZERO_RESULTS</status>
+  </element>
+  <element>
+   <status>ZERO_RESULTS</status>
+  </element>
+  <element>
+   <status>ZERO_RESULTS</status>
+  </element>
+  <element>
+   <status>ZERO_RESULTS</status>
+  </element>
+  <element>
+   <status>ZERO_RESULTS</status>
+  </element>
+  <element>
+   <status>ZERO_RESULTS</status>
+  </element>
+  <element>
+   <status>ZERO_RESULTS</status>
+  </element>
+  <element>
+   <status>ZERO_RESULTS</status>
+  </element>
+  <element>
+   <status>ZERO_RESULTS</status>
+  </element>
+  <element>
+   <status>ZERO_RESULTS</status>
+  </element>
+  <element>
+   <status>ZERO_RESULTS</status>
+  </element>
+  <element>
+   <status>ZERO_RESULTS</status>
+  </element>
+  <element>
+   <status>ZERO_RESULTS</status>
+  </element>
+  <element>
+   <status>ZERO_RESULTS</status>
+  </element>
+  <element>
+   <status>ZERO_RESULTS</status>
+  </element>
+  <element>
+   <status>ZERO_RESULTS</status>
+  </element>
+  <element>
+   <status>ZERO_RESULTS</status>
+  </element>
+  <element>
+   <status>ZERO_RESULTS</status>
+  </element>
+  <element>
+   <status>ZERO_RESULTS</status>
+  </element>
+  <element>
+   <status>ZERO_RESULTS</status>
+  </element>
+  <element>
+   <status>ZERO_RESULTS</status>
+  </element>
+  <element>
+   <status>ZERO_RESULTS</status>
+  </element>
+  <element>
+   <status>ZERO_RESULTS</status>
+  </element>
+  <element>
+   <status>ZERO_RESULTS</status>
+  </element>
+ </row>
+</DistanceMatrixResponse>

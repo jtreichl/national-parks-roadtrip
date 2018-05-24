@@ -1,0 +1,535 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<DistanceMatrixResponse>
+ <status>OK</status>
+ <origin_address>Capitol Reef National Park, Utah, USA</origin_address>
+ <destination_address>Yellowstone National Park, United States</destination_address>
+ <destination_address>Sequoia National Park, California, USA</destination_address>
+ <destination_address>Yosemite National Park, California, USA</destination_address>
+ <destination_address>Mount Rainier National Park, Washington, USA</destination_address>
+ <destination_address>Crater Lake National Park, Oregon, USA</destination_address>
+ <destination_address>Wind Cave National Park, South Dakota, USA</destination_address>
+ <destination_address>Mesa Verde National Park, Mesa Verde, CO, USA</destination_address>
+ <destination_address>Glacier National Park, Montana, USA</destination_address>
+ <destination_address>Rocky Mountain National Park, Colorado, USA</destination_address>
+ <destination_address>Lassen Volcanic National Park, California, USA</destination_address>
+ <destination_address>Acadia National Park, Maine, USA</destination_address>
+ <destination_address>Grand Canyon National Park, Arizona, USA</destination_address>
+ <destination_address>Zion National Park, Utah, USA</destination_address>
+ <destination_address>Hot Springs National Park, 369 Central Ave, Hot Springs, AR 71901, USA</destination_address>
+ <destination_address>Bryce Canyon National Park, Utah, USA</destination_address>
+ <destination_address>Grand Teton National Park, Wyoming, USA</destination_address>
+ <destination_address>Carlsbad Caverns National Park, New Mexico 88220, USA</destination_address>
+ <destination_address>40001 State Hwy 9336, Homestead, FL 33034, USA</destination_address>
+ <destination_address>Great Smoky Mountains National Park, United States</destination_address>
+ <destination_address>Shenandoah National Park, Virginia, USA</destination_address>
+ <destination_address>Olympic National Park, 3002 Mt Angeles Rd, Port Angeles, WA 98362, USA</destination_address>
+ <destination_address>Kings Canyon National Park, California, USA</destination_address>
+ <destination_address>Isle Royale National Park, Michigan, USA</destination_address>
+ <destination_address>Mammoth Cave National Park, Kentucky, USA</destination_address>
+ <destination_address>Big Bend National Park, Big Bend National Park, TX, USA</destination_address>
+ <destination_address>Petrified Forest National Park, Arizona, USA</destination_address>
+ <destination_address>Canyonlands National Park, Utah, USA</destination_address>
+ <destination_address>Guadalupe Peak, Texas 79847, USA</destination_address>
+ <destination_address>North Cascades National Park, Washington, USA</destination_address>
+ <destination_address>Redwood National and State Parks, California, USA</destination_address>
+ <destination_address>Voyageurs National Park, 360 Minnesota 11 East, International Falls, MN 56649, USA</destination_address>
+ <destination_address>Arches National Park, Utah, USA</destination_address>
+ <destination_address>Capitol Reef National Park, Utah, USA</destination_address>
+ <destination_address>Badlands National Park, South Dakota, USA</destination_address>
+ <destination_address>Theodore Roosevelt National Park, North Dakota, USA</destination_address>
+ <destination_address>9700 SW 328th St, Homestead, FL 33033, USA</destination_address>
+ <destination_address>Great Basin National Park, Nevada, USA</destination_address>
+ <destination_address>Saguaro National Park, Arizona, USA</destination_address>
+ <destination_address>Furnace Creek, CA 92328, USA</destination_address>
+ <destination_address>Joshua Tree National Park, California, USA</destination_address>
+ <destination_address>Black Canyon of the Gunnison National Park, Colorado, USA</destination_address>
+ <destination_address>Cuyahoga Valley National Park, Ohio, USA</destination_address>
+ <destination_address>Congaree National Park, 100 National Park Rd, Hopkins, SC 29061, USA</destination_address>
+ <destination_address>Great Sand Dunes National Park and Preserve, Colorado, USA</destination_address>
+ <row>
+  <element>
+   <status>OK</status>
+   <duration>
+    <value>38246</value>
+    <text>10 hours 37 mins</text>
+   </duration>
+   <distance>
+    <value>980400</value>
+    <text>980 km</text>
+   </distance>
+  </element>
+  <element>
+   <status>OK</status>
+   <duration>
+    <value>43494</value>
+    <text>12 hours 5 mins</text>
+   </duration>
+   <distance>
+    <value>1218733</value>
+    <text>1,219 km</text>
+   </distance>
+  </element>
+  <element>
+   <status>OK</status>
+   <duration>
+    <value>43852</value>
+    <text>12 hours 11 mins</text>
+   </duration>
+   <distance>
+    <value>1258380</value>
+    <text>1,258 km</text>
+   </distance>
+  </element>
+  <element>
+   <status>OK</status>
+   <duration>
+    <value>56755</value>
+    <text>15 hours 46 mins</text>
+   </duration>
+   <distance>
+    <value>1628990</value>
+    <text>1,629 km</text>
+   </distance>
+  </element>
+  <element>
+   <status>OK</status>
+   <duration>
+    <value>50141</value>
+    <text>13 hours 56 mins</text>
+   </duration>
+   <distance>
+    <value>1434464</value>
+    <text>1,434 km</text>
+   </distance>
+  </element>
+  <element>
+   <status>OK</status>
+   <duration>
+    <value>41386</value>
+    <text>11 hours 30 mins</text>
+   </duration>
+   <distance>
+    <value>1228921</value>
+    <text>1,229 km</text>
+   </distance>
+  </element>
+  <element>
+   <status>OK</status>
+   <duration>
+    <value>15377</value>
+    <text>4 hours 16 mins</text>
+   </duration>
+   <distance>
+    <value>373936</value>
+    <text>374 km</text>
+   </distance>
+  </element>
+  <element>
+   <status>OK</status>
+   <duration>
+    <value>47519</value>
+    <text>13 hours 12 mins</text>
+   </duration>
+   <distance>
+    <value>1395133</value>
+    <text>1,395 km</text>
+   </distance>
+  </element>
+  <element>
+   <status>OK</status>
+   <duration>
+    <value>27778</value>
+    <text>7 hours 43 mins</text>
+   </duration>
+   <distance>
+    <value>752993</value>
+    <text>753 km</text>
+   </distance>
+  </element>
+  <element>
+   <status>OK</status>
+   <duration>
+    <value>44375</value>
+    <text>12 hours 20 mins</text>
+   </duration>
+   <distance>
+    <value>1219953</value>
+    <text>1,220 km</text>
+   </distance>
+  </element>
+  <element>
+   <status>OK</status>
+   <duration>
+    <value>141646</value>
+    <text>1 day 15 hours</text>
+   </duration>
+   <distance>
+    <value>4285990</value>
+    <text>4,286 km</text>
+   </distance>
+  </element>
+  <element>
+   <status>OK</status>
+   <duration>
+    <value>22415</value>
+    <text>6 hours 14 mins</text>
+   </duration>
+   <distance>
+    <value>569085</value>
+    <text>569 km</text>
+   </distance>
+  </element>
+  <element>
+   <status>OK</status>
+   <duration>
+    <value>14630</value>
+    <text>4 hours 4 mins</text>
+   </duration>
+   <distance>
+    <value>357529</value>
+    <text>358 km</text>
+   </distance>
+  </element>
+  <element>
+   <status>OK</status>
+   <duration>
+    <value>74281</value>
+    <text>20 hours 38 mins</text>
+   </duration>
+   <distance>
+    <value>2194544</value>
+    <text>2,195 km</text>
+   </distance>
+  </element>
+  <element>
+   <status>OK</status>
+   <duration>
+    <value>7726</value>
+    <text>2 hours 9 mins</text>
+   </duration>
+   <distance>
+    <value>179969</value>
+    <text>180 km</text>
+   </distance>
+  </element>
+  <element>
+   <status>OK</status>
+   <duration>
+    <value>28911</value>
+    <text>8 hours 2 mins</text>
+   </duration>
+   <distance>
+    <value>763564</value>
+    <text>764 km</text>
+   </distance>
+  </element>
+  <element>
+   <status>OK</status>
+   <duration>
+    <value>43331</value>
+    <text>12 hours 2 mins</text>
+   </duration>
+   <distance>
+    <value>1208748</value>
+    <text>1,209 km</text>
+   </distance>
+  </element>
+  <element>
+   <status>OK</status>
+   <duration>
+    <value>130918</value>
+    <text>1 day 12 hours</text>
+   </duration>
+   <distance>
+    <value>4071722</value>
+    <text>4,072 km</text>
+   </distance>
+  </element>
+  <element>
+   <status>OK</status>
+   <duration>
+    <value>93117</value>
+    <text>1 day 2 hours</text>
+   </duration>
+   <distance>
+    <value>2853476</value>
+    <text>2,853 km</text>
+   </distance>
+  </element>
+  <element>
+   <status>OK</status>
+   <duration>
+    <value>104635</value>
+    <text>1 day 5 hours</text>
+   </duration>
+   <distance>
+    <value>3224827</value>
+    <text>3,225 km</text>
+   </distance>
+  </element>
+  <element>
+   <status>OK</status>
+   <duration>
+    <value>61638</value>
+    <text>17 hours 7 mins</text>
+   </duration>
+   <distance>
+    <value>1825514</value>
+    <text>1,826 km</text>
+   </distance>
+  </element>
+  <element>
+   <status>OK</status>
+   <duration>
+    <value>41944</value>
+    <text>11 hours 39 mins</text>
+   </duration>
+   <distance>
+    <value>1194726</value>
+    <text>1,195 km</text>
+   </distance>
+  </element>
+  <element>
+   <status>OK</status>
+   <duration>
+    <value>94226</value>
+    <text>1 day 2 hours</text>
+   </duration>
+   <distance>
+    <value>2802330</value>
+    <text>2,802 km</text>
+   </distance>
+  </element>
+  <element>
+   <status>OK</status>
+   <duration>
+    <value>82045</value>
+    <text>22 hours 47 mins</text>
+   </duration>
+   <distance>
+    <value>2496373</value>
+    <text>2,496 km</text>
+   </distance>
+  </element>
+  <element>
+   <status>OK</status>
+   <duration>
+    <value>55902</value>
+    <text>15 hours 32 mins</text>
+   </duration>
+   <distance>
+    <value>1623090</value>
+    <text>1,623 km</text>
+   </distance>
+  </element>
+  <element>
+   <status>OK</status>
+   <duration>
+    <value>23098</value>
+    <text>6 hours 25 mins</text>
+   </duration>
+   <distance>
+    <value>628506</value>
+    <text>629 km</text>
+   </distance>
+  </element>
+  <element>
+   <status>OK</status>
+   <duration>
+    <value>8168</value>
+    <text>2 hours 16 mins</text>
+   </duration>
+   <distance>
+    <value>232105</value>
+    <text>232 km</text>
+   </distance>
+  </element>
+  <element>
+   <status>OK</status>
+   <duration>
+    <value>45294</value>
+    <text>12 hours 35 mins</text>
+   </duration>
+   <distance>
+    <value>1264883</value>
+    <text>1,265 km</text>
+   </distance>
+  </element>
+  <element>
+   <status>OK</status>
+   <duration>
+    <value>71006</value>
+    <text>19 hours 43 mins</text>
+   </duration>
+   <distance>
+    <value>2006673</value>
+    <text>2,007 km</text>
+   </distance>
+  </element>
+  <element>
+   <status>OK</status>
+   <duration>
+    <value>59614</value>
+    <text>16 hours 34 mins</text>
+   </duration>
+   <distance>
+    <value>1576176</value>
+    <text>1,576 km</text>
+   </distance>
+  </element>
+  <element>
+   <status>OK</status>
+   <duration>
+    <value>84927</value>
+    <text>23 hours 35 mins</text>
+   </duration>
+   <distance>
+    <value>2493633</value>
+    <text>2,494 km</text>
+   </distance>
+  </element>
+  <element>
+   <status>OK</status>
+   <duration>
+    <value>9632</value>
+    <text>2 hours 41 mins</text>
+   </duration>
+   <distance>
+    <value>232866</value>
+    <text>233 km</text>
+   </distance>
+  </element>
+  <element>
+   <status>OK</status>
+   <duration>
+    <value>0</value>
+    <text>1 min</text>
+   </duration>
+   <distance>
+    <value>0</value>
+    <text>1 m</text>
+   </distance>
+  </element>
+  <element>
+   <status>OK</status>
+   <duration>
+    <value>43997</value>
+    <text>12 hours 13 mins</text>
+   </duration>
+   <distance>
+    <value>1281783</value>
+    <text>1,282 km</text>
+   </distance>
+  </element>
+  <element>
+   <status>OK</status>
+   <duration>
+    <value>55851</value>
+    <text>15 hours 31 mins</text>
+   </duration>
+   <distance>
+    <value>1597472</value>
+    <text>1,597 km</text>
+   </distance>
+  </element>
+  <element>
+   <status>OK</status>
+   <duration>
+    <value>130503</value>
+    <text>1 day 12 hours</text>
+   </duration>
+   <distance>
+    <value>4059570</value>
+    <text>4,060 km</text>
+   </distance>
+  </element>
+  <element>
+   <status>OK</status>
+   <duration>
+    <value>14417</value>
+    <text>4 hours 0 mins</text>
+   </duration>
+   <distance>
+    <value>384820</value>
+    <text>385 km</text>
+   </distance>
+  </element>
+  <element>
+   <status>OK</status>
+   <duration>
+    <value>34874</value>
+    <text>9 hours 41 mins</text>
+   </duration>
+   <distance>
+    <value>968999</value>
+    <text>969 km</text>
+   </distance>
+  </element>
+  <element>
+   <status>OK</status>
+   <duration>
+    <value>25497</value>
+    <text>7 hours 5 mins</text>
+   </duration>
+   <distance>
+    <value>737853</value>
+    <text>738 km</text>
+   </distance>
+  </element>
+  <element>
+   <status>OK</status>
+   <duration>
+    <value>29503</value>
+    <text>8 hours 12 mins</text>
+   </duration>
+   <distance>
+    <value>825731</value>
+    <text>826 km</text>
+   </distance>
+  </element>
+  <element>
+   <status>OK</status>
+   <duration>
+    <value>15723</value>
+    <text>4 hours 22 mins</text>
+   </duration>
+   <distance>
+    <value>424541</value>
+    <text>425 km</text>
+   </distance>
+  </element>
+  <element>
+   <status>OK</status>
+   <duration>
+    <value>92219</value>
+    <text>1 day 2 hours</text>
+   </duration>
+   <distance>
+    <value>2832171</value>
+    <text>2,832 km</text>
+   </distance>
+  </element>
+  <element>
+   <status>OK</status>
+   <duration>
+    <value>106667</value>
+    <text>1 day 6 hours</text>
+   </duration>
+   <distance>
+    <value>3283929</value>
+    <text>3,284 km</text>
+   </distance>
+  </element>
+  <element>
+   <status>OK</status>
+   <duration>
+    <value>26563</value>
+    <text>7 hours 23 mins</text>
+   </duration>
+   <distance>
+    <value>709715</value>
+    <text>710 km</text>
+   </distance>
+  </element>
+ </row>
+</DistanceMatrixResponse>
