@@ -54,6 +54,10 @@ public class Route implements Comparable, Cloneable {
 	}
 
 
+	public List<Integer> getStops() {
+		return stops;
+	}
+
 	@Override
 	public int compareTo(Object o) {
 		if (o instanceof Route) {

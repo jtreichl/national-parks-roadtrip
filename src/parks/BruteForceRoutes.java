@@ -6,19 +6,21 @@ import java.util.List;
 import java.util.Set;
 
 public class BruteForceRoutes implements RouteBuilder {
-
+	/*
+	 *  This is method returns the precise optimal route for up to ~10 stops  - time is exponentially
+	 *  bad and delay gets noticeable about there.
+	 *  It literally tries every possible ordering of the stop and returns the shortest.
+	 */
 	Integer distanceToBeat = Integer.MAX_VALUE;
 	Route bestRouteSoFar = new Route();
 	ParkList allParks = null;
 	
 	@Override
 	public Route getOptimalRoute(ParkList parks) {
-		// (parks.count() == 2-5)
 		allParks = parks;
 
 		//build the routes
 		Set<Integer> parksToVisit  = parks.getListOfIDs();
-		Iterator<Integer> iter = parksToVisit.iterator();
 		routeBuilder(bestRouteSoFar, parksToVisit);
 		
 		return bestRouteSoFar;
@@ -30,11 +32,10 @@ public class BruteForceRoutes implements RouteBuilder {
 			//evaluate route
 			Integer routeScore = routeSoFar.totalDistance();
 			//debug 
-			System.out.println("Comparing route of length " + routeScore + " with route of length " + distanceToBeat);
+			//System.out.println("Comparing route of length " + routeScore + " with route of length " + distanceToBeat);
 			if (routeScore < distanceToBeat) {
 				distanceToBeat = routeScore;
-				bestRouteSoFar = routeSoFar.clone();
-				
+				bestRouteSoFar = routeSoFar.clone();			
 			}
 			return;
 		}

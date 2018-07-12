@@ -12,6 +12,8 @@ output will be a link that can be pasted into a brower for a google maps results
 
 <br>
 
+![Southeastern parks](/images/SEparks.png)
+
 data sourced from:
 
 wikipedia (https://en.wikipedia.org/wiki/List_of_national_parks_of_the_United_States)

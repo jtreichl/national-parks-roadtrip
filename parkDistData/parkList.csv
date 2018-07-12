@@ -1,59 +1,60 @@
-ID,Name,non-contiguous,include,GMName,,,,,perimeter,cout,ca
-0,Yellowstone,0,0,"Yellowstone National Park, United States",,,,,0,0,
-1,Sequoia,0,1,"Sequoia National Park, California, USA",,,,,0,0,
-2,Yosemite,0,1,"Yosemite National Park, California, USA",,,,,0,0,
-3,Mount Rainier,0,0,"Mount Rainier National Park, Washington, USA",,,,,0,0,
-4,Crater Lake,0,0,"Crater Lake National Park, Oregon, USA",,,,,0,0,
-5,Wind Cave,0,0,"Wind Cave National Park, South Dakota, USA",,,,,0,0,
-6,Mesa Verde,0,0,"Mesa Verde National Park, Mesa Verde, CO, USA",,,,,0,1,
-7,Glacier,0,0,"Glacier National Park, Montana, USA",,,,,1,0,
-8,Rocky Mountain,0,0,"Rocky Mountain National Park, Colorado, USA",,,,,0,1,
-9,Lassen Volcanic,0,1,"Lassen Volcanic National Park, California, USA",,,,,0,0,
-10,Acadia,0,0,"Acadia National Park, Maine, USA",,,,,1,0,
-11,Grand Canyon,0,0,"Grand Canyon National Park, Arizona, USA",,,,,0,0,
-12,Zion,0,0,"Zion National Park, Utah, USA",,,,,0,1,
-13,Hot Springs,0,0,"Hot Springs National Park, 369 Central Ave, Hot Springs, AR 71901, USA",,,,,0,0,
-14,Bryce Canyon,0,0,"Bryce Canyon National Park, Utah, USA",,,,,0,1,
-15,Grand Teton,0,0,"Grand Teton National Park, Wyoming, USA",,,,,0,0,
-16,Carlsbad Caverns,0,0,"Carlsbad Caverns National Park, New Mexico 88220, USA",,,,,0,0,
-17,Everglades,0,0,40001 State Hwy 9336 Homestead FL,,,,,1,0,
-18,Great Smoky Mountains,0,0,"Great Smoky Mountains National Park, United States",,,,,0,0,
-19,Shenandoah,0,0,"Shenandoah National Park, Virginia, USA",,,,,0,0,
-20,Olympic,0,0,"Olympic National Park, 3002 Mt Angeles Rd, Port Angeles, WA 98362, USA",,,,,0,0,
-21,Kings Canyon,0,1,"Kings Canyon National Park, California, USA",,,,,0,0,
-22,Isle Royale,0,0,"Isle Royale National Park, Michigan, USA",,,,,0,0,
-23,Mammoth Cave,0,0,"Mammoth Cave National Park, Kentucky, USA",,,,,0,0,
-24,Big Bend,0,0,"Big Bend National Park, Big Bend National Park, TX, USA",,,,,1,0,
-25,Petrified Forest,0,0,"Petrified Forest National Park, Arizona, USA",,,,,0,0,
-26,Canyonlands,0,0,"Canyonlands National Park, Utah, USA",,,,,0,1,
-27,Guadalupe Mountains,0,0,"Guadeloupe mountains national park, Texas, USA",,,,,0,0,
-28,North Cascades,0,0,"North Cascades National Park, Washington, USA",,,,,1,0,
-29,Redwood,0,1,"Redwood National and State Parks, California, USA",,,,,1,0,
-30,Voyageurs,0,0,"Voyageurs National Park, 360 Minnesota 11 East, International Falls, MN 56649, USA",,,,,1,0,
-31,Arches,0,0,"Arches National Park, Utah, USA",,,,,0,1,
-32,Capitol Reef,0,0,"Capitol Reef National Park, Utah, USA",,,,,0,1,
-33,Badlands,0,0,"Badlands National Park, South Dakota, USA",,,,,0,0,
-34,Theodore Roosevelt,0,0,"Voyageurs National Park, 360 Minnesota 11 East, International Falls, MN 56649, USA",,,,,0,0,
-35,Biscayne,0,0,9700 SW 328th St Homestead FL,,,,,0,0,
-36,Great Basin,0,0,"Great Basin National Park, Nevada, USA",,,,,0,0,
-37,Saguaro,0,0,"Saguaro National Park, Arizona, USA",,,,,0,0,
-38,Death Valley,0,1,Furnace Creek CA 92328,,,,,0,0,
-39,Joshua Tree,0,1,"Joshua Tree National Park, California, USA",,,,,1,0,
-40,Black Canyon of the Gunnison,0,0,"Black Canyon of the Gunnison National Park, Colorado, USA",,,,,0,1,
-41,Cuyahoga Valley,0,0,"Cuyahoga Valley National Park, Ohio, USA",,,,,0,0,
-42,Congaree,0,0,"Congaree National Park, 100 National Park Rd, Hopkins, SC 29061, USA",,,,,1,0,
-43,Great Sand Dunes,0,0,"Great Sand Dunes National Park and Preserve, Colorado, USA",,,,,0,1,
-44,Pinnacles,0,1,"Pinnacles National Park, California, USA",,,,,0,0,
-45,Haleakal?,1,0,Haleakal?,,,,,0,0,
-46,Hawai?i Volcanoes,1,0,Hawai?i Volcanoes,,,,,0,0,
-47,Virgin Islands,1,0,Virgin Islands,,,,,0,0,
-48,Channel Islands,1,0,Channel Islands,,,,,0,0,
-49,Glacier Bay,1,0,Glacier Bay,,,,,0,0,
-50,Katmai,1,0,Katmai,,,,,0,0,
-51,Kobuk Valley,1,0,Kobuk Valley,,,,,0,0,
-52,Lake Clark,1,0,Lake Clark,,,,,0,0,
-53,American Samoa,1,0,American Samoa,,,,,0,0,
-54,Dry Tortugas,1,0,Dry Tortugas,,,,,0,0,
-55,Denali,1,0,Denali,,,,,0,0,
-56,Gates of the Arctic,1,0,Gates of the Arctic,,,,,0,0,
-57,Kenai Fjords,1,0,Kenai Fjords,,,,,0,0,
+ID,Name,non-contiguous,include,latitude,longitude,GMName,,,perimeter,cout,ca,eastcoast,se,sw,nw
+0,Yellowstone,0,1,44.6,110.5,"Yellowstone National Park, United States",,,0,0,0,0,0,0,1
+1,Sequoia,0,0,36.43,118.68,"Sequoia National Park, California, USA",,,0,0,1,0,0,0,0
+2,Yosemite,0,0,37.83,119.5,"Yosemite National Park, California, USA",,,0,0,1,0,0,0,0
+3,Mount Rainier,0,1,46.85,121.75,"Mount Rainier National Park, Washington, USA",,,0,0,0,0,0,0,1
+4,Crater Lake,0,1,42.94,122.1,"Crater Lake National Park, Oregon, USA",,,0,0,0,0,0,0,1
+5,Wind Cave,0,0,43.57,103.48,"Wind Cave National Park, South Dakota, USA",,,0,0,0,1,0,0,0
+6,Mesa Verde,0,0,37.18,108.49,"Mesa Verde National Park, Mesa Verde, CO, USA",,,0,1,0,0,0,0,0
+7,Glacier,0,1,48.8,114,"Glacier National Park, Montana, USA",,,1,0,0,0,0,0,1
+8,Rocky Mountain,0,0,40.4,105.58,"Rocky Mountain National Park, Colorado, USA",,,0,1,0,0,0,0,0
+9,Lassen Volcanic,0,0,40.49,121.51,"Lassen Volcanic National Park, California, USA",,,0,0,1,0,0,0,0
+10,Acadia,0,0,44.35,68.21,"Acadia National Park, Maine, USA",,,1,0,0,1,0,0,0
+11,Grand Canyon,0,0,36.06,112.14,"Grand Canyon National Park, Arizona, USA",,,0,0,0,0,0,1,0
+12,Zion,0,0,37.3,113.05,"Zion National Park, Utah, USA",,,0,1,0,0,0,0,0
+13,Hot Springs,0,0,34.51,93.05,"Hot Springs National Park, 369 Central Ave, Hot Springs, AR 71901, USA",,,0,0,0,0,1,0,0
+14,Bryce Canyon,0,0,37.57,112.18,"Bryce Canyon National Park, Utah, USA",,,0,1,0,0,0,0,0
+15,Grand Teton,0,1,43.73,110.8,"Grand Teton National Park, Wyoming, USA",,,0,0,0,0,0,0,1
+16,Carlsbad Caverns,0,0,32.17,104.44,"Carlsbad Caverns National Park, New Mexico 88220, USA",,,0,0,0,0,0,1,0
+17,Everglades,0,0,25.32,80.93,40001 State Hwy 9336 Homestead FL,,,1,0,0,0,1,0,0
+18,Great Smoky Mountains,0,0,35.68,83.53,"Great Smoky Mountains National Park, United States",,,0,0,0,0,1,0,0
+19,Shenandoah,0,0,38.53,78.35,"Shenandoah National Park, Virginia, USA",,,0,0,0,1,0,0,0
+20,Olympic,0,1,47.97,123.5,"Olympic National Park, 3002 Mt Angeles Rd, Port Angeles, WA 98362, USA",,,0,0,0,0,0,0,1
+21,Kings Canyon,0,0,36.8,118.55,"Kings Canyon National Park, California, USA",,,0,0,1,0,0,0,0
+22,Isle Royale,0,0,48.1,88.55,"Isle Royale National Park, Michigan, USA",,,0,0,0,1,0,0,0
+23,Mammoth Cave,0,0,37.18,86.1,"Mammoth Cave National Park, Kentucky, USA",,,0,0,0,0,1,0,0
+24,Big Bend,0,0,29.25,103.25,"Big Bend National Park, Big Bend National Park, TX, USA",,,1,0,0,0,0,1,0
+25,Petrified Forest,0,0,35.07,109.78,"Petrified Forest National Park, Arizona, USA",,,0,0,0,0,0,1,0
+26,Canyonlands,0,0,38.2,109.93,"Canyonlands National Park, Utah, USA",,,0,1,0,0,0,0,0
+27,Guadalupe Mountains,0,0,31.92,104.87,"Guadeloupe mountains national park, Texas, USA",,,0,0,0,0,0,1,0
+28,North Cascades,0,1,48.7,121.2,"North Cascades National Park, Washington, USA",,,1,0,0,0,0,0,1
+29,Redwood National Park,0,0,41.3,124,"Redwood National and State Parks, California, USA",,,1,0,1,0,0,0,0
+30,Voyageurs,0,0,48.5,92.88,"Voyageurs National Park, 360 Minnesota 11 East, International Falls, MN 56649, USA",,,1,0,0,1,0,0,0
+31,Arches,0,0,38.68,109.57,"Arches National Park, Utah, USA",,,0,1,0,0,0,0,0
+32,Capitol Reef,0,0,38.2,111.17,"Capitol Reef National Park, Utah, USA",,,0,1,0,0,0,0,0
+33,Badlands,0,0,43.75,102.5,"Badlands National Park, South Dakota, USA",,,0,0,0,1,0,0,0
+34,Theodore Roosevelt,0,0,46.97,103.45,Theodore Roosevelt National Park,,,0,0,0,1,0,0,0
+35,Biscayne,0,0,25.65,80.08,9700 SW 328th St Homestead FL,,,0,0,0,0,1,0,0
+36,Great Basin,0,0,38.98,114.3,"Great Basin National Park, Nevada, USA",,,0,1,0,0,0,0,0
+37,Saguaro,0,0,32.25,110.5,"Saguaro National Park, Arizona, USA",,,0,0,0,0,0,1,0
+38,Death Valley,0,0,36.24,116.82,Furnace Creek CA 92328,,,0,0,1,0,0,0,0
+39,Joshua Tree,0,0,33.79,115.9,"Joshua Tree National Park, California, USA",,,1,0,1,0,0,0,0
+40,Black Canyon of the Gunnison,0,0,38.57,107.72,"Black Canyon of the Gunnison National Park, Colorado, USA",,,0,1,0,0,0,0,0
+41,Cuyahoga Valley,0,0,41.24,81.55,"Cuyahoga Valley National Park, Ohio, USA",,,0,0,0,1,0,0,0
+42,Congaree,0,0,33.78,80.78,"Congaree National Park, 100 National Park Rd, Hopkins, SC 29061, USA",,,1,0,0,0,1,0,0
+43,Great Sand Dunes,0,0,37.73,105.51,"Great Sand Dunes National Park and Preserve, Colorado, USA",,,0,1,0,0,0,0,0
+44,Pinnacles,0,0,36.48,121.16,"Pinnacles National Park, California, USA",,,0,0,1,0,0,0,0
+45,Haleakal?,1,0,20.72,156.17,Haleakal?,,,0,0,0,0,0,0,0
+46,Hawai?i Volcanoes,1,0,19.38,155.2,Hawai?i Volcanoes,,,0,0,0,0,0,0,0
+47,Virgin Islands,1,0,18.33,64.73,Virgin Islands,,,0,0,0,0,0,0,0
+48,Channel Islands,1,0,34.01,119.42,Channel Islands,,,0,0,0,0,0,0,0
+49,Glacier Bay,1,0,58.5,137,Glacier Bay,,,0,0,0,0,0,0,0
+50,Katmai,1,0,58.5,155,Katmai,,,0,0,0,0,0,0,0
+51,Kobuk Valley,1,0,67.55,159.28,Kobuk Valley,,,0,0,0,0,0,0,0
+52,Lake Clark,1,0,60.97,153.42,Lake Clark,,,0,0,0,0,0,0,0
+53,American Samoa,1,0,14.25,170.68,American Samoa,,,0,0,0,0,0,0,0
+54,Dry Tortugas,1,0,24.63,82.87,Dry Tortugas,,,0,0,0,0,0,0,0
+55,Denali,1,0,63.33,150.5,Denali,,,0,0,0,0,0,0,0
+56,Gates of the Arctic,1,0,67.78,153.3,Gates of the Arctic,,,0,0,0,0,0,0,0
+57,Kenai Fjords,1,0,59.92,149.65,Kenai Fjords,,,0,0,0,0,0,0,0
+58,Wrangell StElias,1,0,61,142,Wrangell St. Elias,,,0,0,0,0,0,0,0
